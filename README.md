@@ -9,7 +9,7 @@ The objective of this project is to analyze job postings data using SQL to uncov
 - Commute and location-based analysis
 This project demonstrates the use of SQL for data exploration, data quality checks, aggregation, and analytical querying on a real-world dataset.
 ## 📌 Dataset
-**Table:** `JOBS_DATA`
+**Table:** 
 -<a href="https://github.com/AseelaDS/Job-Market-Analysis/blob/main/JOBS_DATA.xlsx">JOBS_DATA</a>
 > Goal: Build reusable SQL queries that answer common job-market questions such as highest paying roles, remote vs onsite trends, and skills demand.
 ## ✅ Key Questions Answered
